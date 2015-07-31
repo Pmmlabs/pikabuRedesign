@@ -1,0 +1,49 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("pikabu.ru") {
+    /* шапка */
+    .header-cont {
+        background: white !important;
+        box-shadow: 0 1px 3px #D9D9DB !important;
+        margin-bottom: 3px !important;
+        height: 120px !important;
+    }
+    td.header-logo {
+        width: 18% !important;
+    }
+    /* ссылки в шапке */
+    table#header_t .menu li a {
+        width: 140px !important;
+        border-radius: 30px !important;
+        border: 1px solid #3FD85F !important;
+        height: 30px !important;
+        margin-top: -20px !important;
+        padding: 10px 0 !important;
+
+        font-family: Helvetica,Tahoma !important;
+        font-size: 20px !important;
+        text-shadow: none !important;
+        color: #05BF54;
+    }
+    td.header-nav-bottom > ul.menu > li {
+        width: 190px !important;
+    }
+    /* зеленая активная вкладка */
+    table#header_t .menu .active2 a, table#header_t .menu .active2 a:hover {
+        background: #05BF54 !important;
+    }
+    /*поиск*/
+    div.header-search-box > form > div > input {
+        border-radius: 5px !important;
+    }
+    .search_block {
+        background: white !important;
+        border: 1px solid #E2E2E2 !important;
+        outline: none !important;
+        height: 35px !important;
+    }
+    /* контент */
+    #wrap {
+        background: #F9F9FB !important;
+    }
+}
