@@ -25,7 +25,7 @@
         vertical-align: top !important;
     }
     ul.menu {
-        margin-top: -5px !important;;
+        margin-top: -5px !important;
     }
     /* logo */
     #logodiv {
@@ -59,7 +59,7 @@
         font-family: Helvetica, Tahoma !important;
         font-size: 20px !important;
         text-shadow: none !important;
-        color: #05BF54 !important;;
+        color: #05BF54 !important;
         outline: none !important;
     }
     table#header_t .menu a:hover {
@@ -99,17 +99,17 @@
     .search_btn {
         position: relative;
         right: 40px;
-        margin: 13px !important;;
+        margin: 13px !important;
         height: 12px !important;
         padding-right: 12px !important;
         padding-top: 0 !important;
         width: 0 !important;
-        background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAIAAADZF8uwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAhdEVYdENyZWF0aW9uIFRpbWUAMjAxNTowNzozMSAyMjo0Mzo0Mv9iHCIAAAD7SURBVChTdZFLioNAGISdBleiAXXnyisoHiGXVa/gQpDgEaIigooPVFz4AA1JpsJvZgLDfKu/uqurqe6v5/PJcVyaptfrdV1Xxpgsy6ZpSpKE9QOYfN/3PG+aJsz3+70oCtd18zyHJLgoiuA41Jt5nh3HQTBJFsexZVlH7BtBEHRdRyRJhkOiKJL4RFGUYRhoZjzP7/tO4pNlWZBHM9M0LUkSEj88Hg/0xRZJZhgGymdZRhrcbrcgCFRVxY208nonJF8uF3TBBq7u+x4ZVVWdz+fT6fRyUUkAU1mWTdNs2wZZ1zVeYRxHzL+mv7Rta9s2Oh7f8h9d14Vh+A2pqdWtMD6ZPQAAAABJRU5ErkJggg==') !important;;
+        background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAIAAADZF8uwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAhdEVYdENyZWF0aW9uIFRpbWUAMjAxNTowNzozMSAyMjo0Mzo0Mv9iHCIAAAD7SURBVChTdZFLioNAGISdBleiAXXnyisoHiGXVa/gQpDgEaIigooPVFz4AA1JpsJvZgLDfKu/uqurqe6v5/PJcVyaptfrdV1Xxpgsy6ZpSpKE9QOYfN/3PG+aJsz3+70oCtd18zyHJLgoiuA41Jt5nh3HQTBJFsexZVlH7BtBEHRdRyRJhkOiKJL4RFGUYRhoZjzP7/tO4pNlWZBHM9M0LUkSEj88Hg/0xRZJZhgGymdZRhrcbrcgCFRVxY208nonJF8uF3TBBq7u+x4ZVVWdz+fT6fRyUUkAU1mWTdNs2wZZ1zVeYRxHzL+mv7Rta9s2Oh7f8h9d14Vh+A2pqdWtMD6ZPQAAAABJRU5ErkJggg==') !important;
     }
     /* ссылки спраава вверху */
     div.menu-cont div.header-nav-top {
         margin-top: -125px !important;
-        height: 40px !important;;
+        height: 40px !important;
     }
     /* контент */
     #wrap, body {
@@ -126,7 +126,7 @@
     }
 
     .b-feed-panel__toolbar > div {
-        font-size: 16px !important;;
+        font-size: 16px !important;
     }
 
     .b-feed-panel__toolbar div:first-child span:first-child {
@@ -135,52 +135,52 @@
     }
     .b-feed-panel__toolbar div:first-child a:nth-child(2) {
         /* актуальности */
-        display: block !important;;
-        float: right !important;;
+        display: block !important;
+        float: right !important;
         width: 0 !important;
         overflow: hidden !important;
-        padding-left: 22px !important;;
+        padding-left: 22px !important;
         padding-top: 13px !important;
         border-bottom: none !important;
-        height: 21px !important;;
+        height: 21px !important;
         background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAVCAIAAADNQonCAAAAB3RJTUUH3wgBEAoL1mu6jAAAAbxJREFUeJy1lD9LI1EUxc97zpuZRPAPDEuKsFikErGwki1W8DPINLIEJE3AYkXQxtWvsGApWLhFYL+AZYQwDkEMCiFiFAOWImIguomTvGMxWZBBxn/4q87hce+75114giQ+hoz49YvC+kXhlTbEAECyend53+sAOGo1AJSb9fA4xiYHrInBr0IIQfJH7fffq30lBgAE7AEIdbwN2HO/fPsz/hMkraK7e10hSXKhtrlQ2+R/YuzudcUquiQNABo6Ic3wntnRyac5Y2xCmhq6/xZPmU99f70NiW7kHURbrJzvZPz8TGUNQLlZz/j5jJ8PVzBTWcv4+ZXznUhJNEjAblsHHQYANNjWfQGgw6Ctg4Dd6BgkVXFu76bKN7J3U1XFOZLRIEtn22kvN324CsBvnqa9XNrL+c1TANOHq2kvt3S2/UIQJQxbKksoABLCln0BwBLKlkqJaMknBFmsbzml7NTBMgDv9sQpZZ1S1rs9ATB1sOyUsov1rReCDBvJlDniqCEApjRS5kgoADhq6EF3h43k5wd5BwYAW5rHrcYzE8Zy3GrY0uy32BhzfzUK//TDm1okpLkx5gIQ/PDf+QilT5C3DJ4P3gAAAABJRU5ErkJggg==') !important;
-        background-position: center bottom !important;;
-        background-repeat: no-repeat !important;;
+        background-position: center bottom !important;
+        background-repeat: no-repeat !important;
     }
     .b-feed-panel__toolbar > div:first-child {
         width: 25% !important;
     }
     .b-feed-panel__toolbar div:first-child span:nth-child(3) {
         /* за */
-        background: #05bf54 !important;;
-        border-radius: 5px !important;;
-        color: white !important;;
-        display: block !important;;
-        float: left !important;;
-        padding-left: 30px !important;;
-        padding-top: 13px !important;;
+        background: #05bf54 !important;
+        border-radius: 5px !important;
+        color: white !important;
+        display: block !important;
+        float: left !important;
+        padding-left: 30px !important;
+        padding-top: 13px !important;
     }
     .b-feed-panel__toolbar div:first-child a:nth-child(4) {
         /* сегодня */
-        background: #05bf54 !important;;
-        border-radius: 5px !important;;
-        color: white !important;;
-        display: block !important;;
-        height: 37px !important;;
-        padding-left: 52px !important;;
-        padding-top: 13px !important;;
-        width: 87px !important;;
+        background: #05bf54 !important;
+        border-radius: 5px !important;
+        color: white !important;
+        display: block !important;
+        height: 37px !important;
+        padding-left: 52px !important;
+        padding-top: 13px !important;
+        width: 87px !important;
     }
     /* сворачивать просмотренные посты */
     #feed-panel-hidden-counter {
-        padding-right: 10px !important;;
+        padding-right: 10px !important;
     }
 
     /* посты */
     .pg {
         /* заголовок поста */
         background: white !important;
-        border-radius: 10px !important;
+        border-radius: 10px 10px  0 10px !important;
         box-shadow: 0 1px 2px #D9D9DB !important;
     }
     .pg_click {
@@ -188,6 +188,31 @@
     }
     .b-story__content {
         background: white none repeat scroll 0 0 !important;
-        width: 100% !important;
+        width: 777px !important;
+        max-width: 777px !important;
+        margin-left: 95px !important;
+        padding: 0 !important;
+        margin-right: 0 !important;
+        margin-top: 0 !important;
+    }
+
+    .b-story__content.b-story__content_type_media img {
+        height: 100%;
+        max-width: 100%;
+        width: 100%;
+    }
+    @media screen and (max-width: 1220px) {
+        .b-story__content {
+            width: 84% !important;
+        }
+    }
+    /* текстовые посты */
+    .b-story__content_type_text {
+        margin-top: 0 !important;
+        padding: 20px !important;
+        margin-left: 96px !important;
+        border: none !important;
+        box-shadow: 2px 1px 2px -2px #d9d9db, -2px 1px 2px -2px #d9d9db !important;
+        border-radius: 0 !important;
     }
 }
