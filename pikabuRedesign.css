@@ -213,4 +213,8 @@
 
         border-radius: 0 !important;
     }
+
+    .b-user-menu {
+        margin-top: 63px !important;
+    }
 }
