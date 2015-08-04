@@ -8,6 +8,10 @@
         margin-bottom: 3px !important;
         height: 120px !important;
     }
+    .header-cont > div {
+        width: 100% !important;
+        max-width: 100% !important;
+    }
     table#header_t, .header-cont > div, td.header-nav > table {
         height: 100% !important;
     }
