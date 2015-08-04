@@ -24,9 +24,6 @@
     td.header-nav-bottom {
         vertical-align: top !important;
     }
-    ul.menu {
-        margin-top: -5px !important;
-    }
     /* logo */
     #logodiv {
         margin-top: 22px !important;
@@ -46,7 +43,7 @@
     }
     /* ссылки в шапке */
     table#header_t .menu a {
-        /*         width: 100px !important; */
+        display: inline !important;
         height: 30px !important;
         border-radius: 30px !important;
         border: 1px solid #3FD85F !important;
@@ -55,6 +52,7 @@
         padding: 10px 25px !important;
         right: 0 !important;
         left: 0 !important;
+        position: relative !important;
 
         font-family: Helvetica, Tahoma !important;
         font-size: 20px !important;
@@ -71,12 +69,12 @@
     }
     table#header_t .menu {
         width: 100% !important;
+        margin-top: -10px !important;;
     }
     /* зеленая активная вкладка */
     table#header_t .menu .active a, table#header_t .menu .active a:hover,
     table#header_t .menu .active2 a, table#header_t .menu .active2 a:hover,
     table#header_t .menu .active3 a, table#header_t .menu .active3 a:hover {
-
         background: #05BF54 !important;
         color: white !important;
     }
@@ -188,9 +186,10 @@
     }
     .b-story__content {
         background: white none repeat scroll 0 0 !important;
+        box-shadow: 2px 1px 2px -2px #d9d9db, -2px 1px 2px -2px #d9d9db !important;
         width: 777px !important;
         max-width: 777px !important;
-        margin-left: 95px !important;
+        margin-left: 96px !important;
         padding: 0 !important;
         margin-right: 0 !important;
         margin-top: 0 !important;
@@ -210,9 +209,8 @@
     .b-story__content_type_text {
         margin-top: 0 !important;
         padding: 20px !important;
-        margin-left: 96px !important;
         border: none !important;
-        box-shadow: 2px 1px 2px -2px #d9d9db, -2px 1px 2px -2px #d9d9db !important;
+
         border-radius: 0 !important;
     }
 }
